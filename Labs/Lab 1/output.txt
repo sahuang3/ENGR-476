@@ -1,0 +1,33 @@
+Student	No.	A	B
+RAYMOND	7	22.50	75.00
+TANIA	2	49.00	75.00
+TOM	3	53.00	54.00
+JOAN	1	70.50	85.00
+JEFF	4	80.00	49.50
+SUSAN	5	89.00	90.00
+KATHY	6	99.00	55.00
+
+All the students that got diploma
+Student	No.	A	B
+TOM	 3	53.00	54.00
+JOAN	 1	70.50	85.00
+SUSAN	 5	89.00	90.00
+KATHY	 6	99.00	55.00
+
+Subject A in ascending order 
+Student	No.	A	B
+RAYMOND	7	22.50	75.00
+TANIA	2	49.00	75.00
+TOM	3	53.00	54.00
+JOAN	1	70.50	85.00
+JEFF	4	80.00	49.50
+SUSAN	5	89.00	90.00
+KATHY	6	99.00	55.00
+
+Average of Subject A: 57.88 
+
+Average of Subject B: 60.44 
+
+Standard Deviation of Subject A: 31.65 
+
+Standard Deviation of Subject B: 26.80 
